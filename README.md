@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0162-find-peak-element) |
 | [0861-flipping-an-image](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0861-flipping-an-image) |
 ## Two Pointers
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0190-reverse-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
