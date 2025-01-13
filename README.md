@@ -10,6 +10,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2465-shifting-letters-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,4 +41,8 @@
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2292-counting-words-with-a-given-prefix) |
+## Counting
+|  |
+| ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/3455-minimum-length-of-string-after-operations) |
 <!---LeetCode Topics End-->
