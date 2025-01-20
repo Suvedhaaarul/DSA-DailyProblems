@@ -29,11 +29,13 @@
 | [2358-number-of-ways-to-split-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
@@ -67,4 +69,5 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0407-trapping-rain-water-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2685-first-completely-painted-row-or-column) |
 <!---LeetCode Topics End-->
