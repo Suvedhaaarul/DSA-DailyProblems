@@ -24,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0169-majority-element) |
 | [0407-trapping-rain-water-ii](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0407-trapping-rain-water-ii) |
 | [1524-string-matching-in-an-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0169-majority-element) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -55,6 +57,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0169-majority-element) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Brainteaser
 |  |
@@ -77,4 +80,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
