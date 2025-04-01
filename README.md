@@ -25,6 +25,7 @@
 | [0001-two-sum](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0407-trapping-rain-water-ii) |
 | [1524-string-matching-in-an-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
