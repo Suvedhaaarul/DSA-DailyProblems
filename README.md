@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0407-trapping-rain-water-ii](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0407-trapping-rain-water-ii) |
 | [1524-string-matching-in-an-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -72,4 +73,8 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0407-trapping-rain-water-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2685-first-completely-painted-row-or-column) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
