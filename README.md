@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0020-valid-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -130,4 +131,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
