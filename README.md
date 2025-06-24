@@ -46,6 +46,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0169-majority-element) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2685-first-completely-painted-row-or-column) |
@@ -108,6 +109,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1019-squares-of-a-sorted-array) |
@@ -121,6 +123,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
