@@ -25,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0088-merge-sorted-array) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0160-intersection-of-two-linked-lists) |
