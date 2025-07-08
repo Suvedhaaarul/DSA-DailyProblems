@@ -61,6 +61,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0371-sum-of-two-integers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0258-add-digits) |
+| [0371-sum-of-two-integers](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0371-sum-of-two-integers) |
 ## Linked List
 |  |
 | ------- |
