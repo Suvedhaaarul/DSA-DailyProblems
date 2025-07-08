@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -39,6 +40,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0560-subarray-sum-equals-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1019-squares-of-a-sorted-array) |
 | [1524-string-matching-in-an-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -56,6 +58,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0560-subarray-sum-equals-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
