@@ -15,6 +15,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -32,6 +33,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0407-trapping-rain-water-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1019-squares-of-a-sorted-array) |
