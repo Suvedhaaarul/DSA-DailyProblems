@@ -124,6 +124,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0258-add-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -159,4 +160,12 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
