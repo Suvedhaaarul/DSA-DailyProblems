@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0020-valid-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0169-majority-element) |
@@ -175,4 +177,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0258-add-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
