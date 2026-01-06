@@ -29,6 +29,7 @@
 | [0001-two-sum](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0088-merge-sorted-array) |
@@ -171,6 +172,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Suvedhaaarul/DSA-DailyProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Simulation
 |  |
